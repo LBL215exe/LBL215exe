@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**LBL215exe/LBL215exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on My website! https://lbl215exe.github.io/
 
-Here are some ideas to get you started:
+🌱 I’m currently learning HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for help with JS so it can be on my site!
+
+💬 Ask me about Basic CSS & HTML
+
+📫 How to reach me: Discord
+
+😄 Pronouns: **He/Him**
+
+⚡ Fun fact: **HTML is Not a Programming Language**: It’s a *markup language* designed to structure and present content on the web.
