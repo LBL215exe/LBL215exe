@@ -30,7 +30,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LBL215exe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![]([https://github-contributor-stats.vercel.app/api?username=LBL215exe&limit=5&theme=dark&combine_all_yearly_contributions=true](https://camo.githubusercontent.com/4aca217f443588a5d90b4336fc318e4eb3b25ef92a3676bb99f5ba3ca40c0344/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4c424c323135657865266c696d69743d35267468656d653d6461726b26636f6d62696e655f616c6c5f796561726c795f636f6e747269627574696f6e733d74727565))
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LBL215exe&icon=0&color=0)](https://visitcount.itsvg.in)
