@@ -17,10 +17,3 @@ Hi there 👋 I’m currently working on My website! https://lbl215exe.github.io
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LBL215exe&icon=3&color=12)](https://visitcount.itsvg.in)
-
-||⬜|| ||⬜|| ||⬜|| ||⬜|| ||⬜|| ||⬜|| 
-||⬜|| ||⬜|| ||⬜|| ||⬜|| ||⬜|| ||⬜||
-||⬜|| ||⬜|| ||⬜|| ||⬜|| ||⬜|| ||⬜||
-||⬜|| ||⬜|| ||⬜|| ||⬜|| ||⬜|| ||⬜||
-||⬜|| ||⬜|| ||⬜|| ||⬜|| ||⬜|| ||⬜||
-||⬜|| ||⬜|| ||⬜|| ||⬜|| ||⬜|| ||⬜||
